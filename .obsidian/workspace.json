@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
-            "id": "23bdab7db3bbe861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "mode": "source",
                 "source": false
@@ -36,55 +22,21 @@
             }
           },
           {
-            "id": "bc68bb5265e5b2ff",
+            "id": "70be6cc1f88c11b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "Electrical/Top down requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
-            }
-          },
-          {
-            "id": "d42b4717ce1a8cbc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://duckduckgo.com/?q=8mph+to+m%2Fs&ia=web",
-                "title": "8mph to m/s at DuckDuckGo",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "8mph to m/s at DuckDuckGo"
+              "title": "Top down requirements"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "3c8857b4e87c098b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7942d62c2a61bdc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.pololu.com/product/1520",
-                "title": "Pololu - 120:1 Mini Plastic Gearmotor HP, Offset 3mm D-Shaft Output, Extended Motor Shaft",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Pololu - 120:1 Mini Plastic Gearmotor HP, Offset 3mm D-Shaft Output, Extended Motor Shaft"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals.md",
+                "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Goals"
+              "title": "Backlinks for Drivetrain Speed Calculations"
             }
           },
           {
@@ -176,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals.md",
+                "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Goals"
+              "title": "Outgoing links from Drivetrain Speed Calculations"
             }
           },
           {
@@ -205,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals.md",
+                "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Goals"
+              "title": "Outline of Drivetrain Speed Calculations"
             }
           }
         ]
@@ -235,15 +187,13 @@
       "size-history:Vault size history": false
     }
   },
-  "active": "bc68bb5265e5b2ff",
+  "active": "70be6cc1f88c11b5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Resources.md",
     "Goals.md",
+    "Mechanical/Drivetrain Speed Calculations.md",
     "Electrical/Top down requirements.md",
     "Electrical",
-    "Mechanical/Drivetrain Speed Calculations.md",
-    "Resources.md",
-    "Untitled",
     "Mechanical"
   ]
 }
