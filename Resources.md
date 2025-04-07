@@ -5,3 +5,4 @@
 [XRP](https://www.printables.com/model/951372-omnidirectional-xrp-robot)
 [Wild Willy](https://www.thingiverse.com/thing:5579384)
 [Wild Willy in Robot](https://www.printables.com/model/599137-swerve-drive-robot)
+[Goofy FRC Thing](https://www.chiefdelphi.com/t/4x4x5-differential-swerve-module/388650/15)
