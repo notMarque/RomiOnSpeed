@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "PCBs/Motor Controller Board/Motor Controller Board Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Motor Controller Board Design"
             }
           },
           {
@@ -67,14 +67,17 @@
             "id": "a8e7aa9f5ab7ecf7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DRV8243HQDGQRQ1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DRV8243HQDGQRQ1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3c8857b4e87c098b",
@@ -245,14 +248,16 @@
       "size-history:Vault size history": false
     }
   },
-  "active": "bc68bb5265e5b2ff",
+  "active": "ec99e51aaa13cbf8",
   "lastOpenFiles": [
+    "DRV8243HQDGQRQ1.md",
+    "Pasted image 20250407162528.png",
+    "PCBs/Motor Controller Board/Motor Controller Board Design.md",
+    "Resources.md",
+    "Mechanical/Drivetrain Speed Calculations.md",
     "Electrical/Top down requirements.md",
-    "PCBs/Motor Controller Board/Docs.md",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/#auto_saved_files#",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/_autosave-RP2040_minimal_r2.kicad_sch",
-    "Mechanical/Drivetrain Speed Calculations.md",
-    "Resources.md",
     "Goals.md",
     "conflict-files-obsidian-git.md",
     "Electrical",
