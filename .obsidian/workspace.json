@@ -62,9 +62,19 @@
               "icon": "globe-2",
               "title": "8mph to m/s at DuckDuckGo"
             }
+          },
+          {
+            "id": "a8e7aa9f5ab7ecf7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "3c8857b4e87c098b",
@@ -235,11 +245,11 @@
       "size-history:Vault size history": false
     }
   },
-  "active": "bc68bb5265e5b2ff",
+  "active": "a8e7aa9f5ab7ecf7",
   "lastOpenFiles": [
+    "Mechanical/Drivetrain Speed Calculations.md",
     "Goals.md",
     "conflict-files-obsidian-git.md",
-    "Mechanical/Drivetrain Speed Calculations.md",
     "Resources.md",
     "Electrical/Top down requirements.md",
     "Electrical",
