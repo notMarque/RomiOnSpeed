@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Electrical/Top down requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Top down requirements"
+            }
+          },
+          {
+            "id": "13f008accb35498f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.thingiverse.com/thing:5579384",
+                "title": "Differential Swerve Drive by WildWillyRobots - Thingiverse",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Differential Swerve Drive by WildWillyRobots - Thingiverse"
             }
           },
           {
@@ -47,26 +61,6 @@
               },
               "icon": "globe-2",
               "title": "8mph to m/s at DuckDuckGo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3c8857b4e87c098b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7942d62c2a61bdc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.pololu.com/product/1520",
-                "title": "Pololu - 120:1 Mini Plastic Gearmotor HP, Offset 3mm D-Shaft Output, Extended Motor Shaft",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Pololu - 120:1 Mini Plastic Gearmotor HP, Offset 3mm D-Shaft Output, Extended Motor Shaft"
             }
           }
         ]
