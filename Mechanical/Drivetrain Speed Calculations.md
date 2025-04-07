@@ -21,3 +21,16 @@ $$
 $$
 R_{wheel}=50mm
 $$
+$$
+C=2\pi \cdot r
+=2\pi \cdot 0.05m
+=0.31415m
+$$
+$$
+C\cdot \omega=V
+$$
+$$
+\omega=\frac{V}{C}
+=\frac{3.5m}{s}\cdot \frac{1}{0.31415m} \cdot \frac{60s}{1min}
+=668rpm
+$$
