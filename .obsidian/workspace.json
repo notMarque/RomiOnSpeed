@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCBs/Motor Controller Board/Docs.md",
+                "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docs"
+              "title": "Drivetrain Speed Calculations"
             }
           },
           {
@@ -247,6 +247,7 @@
   },
   "active": "bc68bb5265e5b2ff",
   "lastOpenFiles": [
+    "Electrical/Top down requirements.md",
     "PCBs/Motor Controller Board/Docs.md",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/#auto_saved_files#",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/_autosave-RP2040_minimal_r2.kicad_sch",
@@ -254,7 +255,6 @@
     "Resources.md",
     "Goals.md",
     "conflict-files-obsidian-git.md",
-    "Electrical/Top down requirements.md",
     "Electrical",
     "Untitled",
     "Mechanical"
