@@ -2,7 +2,11 @@
   "datapoints": [
     {
       "day": "2025-04-07",
+<<<<<<< HEAD
       "size": 3
+=======
+      "size": 2
+>>>>>>> origin/main
     }
   ]
 }
