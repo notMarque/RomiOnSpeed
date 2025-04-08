@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,12 +243,12 @@
       "size-history:Vault size history": false
     }
   },
-  "active": "5fed59fcc6ba7da1",
+  "active": "bc68bb5265e5b2ff",
   "lastOpenFiles": [
+    "PCBs/Motor Controller Board/Motor Controller Board Design.md",
+    "DRV8263-Q1.md",
     "Resources.md",
     "Goals.md",
-    "DRV8263-Q1.md",
-    "PCBs/Motor Controller Board/Motor Controller Board Design.md",
     "Mechanical/Drivetrain Speed Calculations.md",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/RP2040_minimal_r2-backups/RP2040_minimal_r2-2025-04-07_204328.zip",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/RP2040_minimal_r2-backups",

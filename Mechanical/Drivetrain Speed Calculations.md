@@ -41,6 +41,4 @@ $$
 \omega_{desired}=150rpm
 $$
 ## Gear Calculations
-$$
-20dp
-$$
+Big Bevel Gear Teeth: Probably 1bout 40
