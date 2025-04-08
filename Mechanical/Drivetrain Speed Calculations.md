@@ -42,3 +42,33 @@ $$
 $$
 ## Gear Calculations
 Big Bevel Gear Teeth: Probably 1bout 40
+Small Bevel Gear: 11-12 teeth
+Spur Gear: 51 teeth
+Pinion Gear: ?
+### Wheel Speed Calculations
+$$
+\omega_{wheel}\cdot \frac{11t}{40t}\cdot\frac{50t}{Xt}=\omega_{motor}
+$$
+$$
+\omega_{wheel}\cdot \frac{11t}{40t}\cdot 50t = \omega_{motor}\cdot Xt
+$$
+### Twist Speed Calculations
+$$
+\omega_{twist}\cdot \frac{50t}{Xt}=\omega_{motor}
+$$
+$$
+\omega_{twist}\cdot 50t=\omega_{motor}\cdot Xt
+$$
+### Twist to Wheel Speed Ratio
+$$
+\frac{\omega_{twist}}{\omega_{wheel}}=\frac{11}{40}
+$$
+$$
+\omega_{twist}=\frac{11}{40}\cdot \omega_{wheel}
+=\frac{11}{40}\cdot 668rpm
+=183.7rpm
+$$
+### Twist Speed to Motor Speed
+$$
+\omega_{motor}= \frac{50t}{14t}\cdot 183.7rpm = 656rpm
+$$

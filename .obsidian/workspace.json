@@ -13,52 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical/Top down requirements.md",
+                "file": "PCBs/Motor Controller Board/Motor Controller Board Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top down requirements"
-            }
-          },
-          {
-            "id": "f2e4fa8b725f306d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "System/Images/Pasted image 20250407211738.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250407211738"
-            }
-          },
-          {
-            "id": "e26d5d9b5996cbd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRV8263-Q1 Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DRV8263-Q1 Notes"
-            }
-          },
-          {
-            "id": "13f008accb35498f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.thingiverse.com/thing:5579384",
-                "title": "Differential Swerve Drive by WildWillyRobots - Thingiverse",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Differential Swerve Drive by WildWillyRobots - Thingiverse"
+              "title": "Motor Controller Board Design"
             }
           },
           {
@@ -76,21 +36,49 @@
             }
           },
           {
-            "id": "d42b4717ce1a8cbc",
+            "id": "b13d0b788c0bf87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
+            }
+          },
+          {
+            "id": "a8e7aa9f5ab7ecf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resources"
+            }
+          },
+          {
+            "id": "a8cfc7faa992c3c4",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://duckduckgo.com/?q=8mph+to+m%2Fs&ia=web",
-                "title": "8mph to m/s at DuckDuckGo",
+                "url": "https://www.thingiverse.com/thing:5579384/makes",
+                "title": "Differential Swerve Drive by WildWillyRobots - Thingiverse",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "8mph to m/s at DuckDuckGo"
+              "title": "Differential Swerve Drive by WildWillyRobots - Thingiverse"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resources"
+              "title": "Backlinks for Drivetrain Speed Calculations"
             }
           },
           {
@@ -182,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Resources"
+              "title": "Outgoing links from Drivetrain Speed Calculations"
             }
           },
           {
@@ -211,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md",
+                "file": "Mechanical/Drivetrain Speed Calculations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resources"
+              "title": "Outline of Drivetrain Speed Calculations"
             }
           }
         ]
@@ -237,11 +225,16 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "size-history:Vault size history": false
     }
   },
-  "active": "e26d5d9b5996cbd1",
+  "active": "bc68bb5265e5b2ff",
   "lastOpenFiles": [
+    "System/Images/Pasted image 20250407211738.png",
+    "System/Images/Pasted image 20250407162528.png",
+    "System/Images",
+    "System",
     "Pasted image 20250407213257.png",
     "Pasted image 20250407213239.png",
     "Pasted image 20250407213224.png",
@@ -251,26 +244,21 @@
     "Pasted image 20250407212540.png",
     "Pasted image 20250407212355.png",
     "Pasted image 20250407212306.png",
-    "System/Images/Pasted image 20250407162528.png",
-    "System/Images/Pasted image 20250407211738.png",
     "DRV8263-Q1 Notes.md",
-    "System/Images",
-    "System",
     "PCBs/Motor Controller Board/Motor Controller Board Design.md",
-    "PCBs/Motor Controller Board/RP2040_minimal_r2-tas.pdf",
-    "PCBs/Motor Controller Board/RP2040_minimal_r2-sch.pdf",
+    "DRV8263-Q1.md",
     "Resources.md",
     "Goals.md",
-    "Electrical/Top down requirements.md",
-    "conflict-files-obsidian-git.md",
-    "PCBs/Motor Controller Board/RP2040_minimal_r2/RP2040_minimal_r2.kicad_prl",
+    "Mechanical/Drivetrain Speed Calculations.md",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/RP2040_minimal_r2-backups/RP2040_minimal_r2-2025-04-07_204328.zip",
-    "PCBs/Motor Controller Board/RP2040_minimal_r2/~RP2040_minimal_r2.kicad_sch.lck",
-    "PCBs/Motor Controller Board/RP2040_minimal_r2/_autosave-RP2040_minimal_r2.kicad_sch",
-    "PCBs/Motor Controller Board/RP2040_minimal_r2/#auto_saved_files#",
-    "DRV8243HQDGQRQ1.md",
     "PCBs/Motor Controller Board/RP2040_minimal_r2/RP2040_minimal_r2-backups",
-    "PCBs/Motor Controller Board/Docs.md",
-    "Mechanical/Drivetrain Speed Calculations.md"
+    "PCBs/Motor Controller Board/RP2040_minimal_r2/RP2040_minimal_r2.kicad_prl",
+    "conflict-files-obsidian-git.md",
+    "Electrical/Top down requirements.md",
+    "PCBs/Motor Controller Board/RP2040_minimal_r2/#auto_saved_files#",
+    "PCBs/Motor Controller Board/RP2040_minimal_r2/_autosave-RP2040_minimal_r2.kicad_sch",
+    "Electrical",
+    "Untitled",
+    "Mechanical"
   ]
 }
