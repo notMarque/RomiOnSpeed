@@ -62,6 +62,9 @@ GPIO
 Connect to ground to turn off Internal Current regulation
 
 ### SR 
-
+Put some 0603 reistor to GND and we can tune value later. This can be jumped for lvl 1 or left open for lvl 6
 ### GND
 fucking ground it pretty please
+
+
+# How to actually control it 
