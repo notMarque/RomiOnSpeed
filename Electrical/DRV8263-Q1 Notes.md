@@ -33,7 +33,7 @@
 ![[Pasted image 20250407214719.png]]
 ![[Pasted image 20250407214734.png]]
 ![[Pasted image 20250407221133.png]]
-## What to do with pins
+## What to do with pins For Real
 ### MODE
 According to table 8-3, this should be R LVL 1OF3 for PH/EN MODE. This Means that it should constantly be pulled to GND.
 ### IPROPI 
