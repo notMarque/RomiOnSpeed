@@ -38,10 +38,10 @@ According to table 8-3, this should be R LVL 1OF3 for PH/EN MODE. This Means tha
 ### IPROPI 
 Should be pulled to ground to disable over current and over voltage protection.
 ### nSleep
-Should be connected to an IO pin, maybe with interrupt
+Should be connected to an IO pin  with interrupt
 
 ### nFault
-uhhhh idk
+I guess 2k resistor to 3v3 and then into a GPIO
 
 ### DIAG
 Pull low to gnd according to table 8-11 to turn on auto retry
@@ -55,3 +55,6 @@ Connect to GPIO
 Analog Pin
 
 ### IN2
+GPIO 
+
+### ITRIP
