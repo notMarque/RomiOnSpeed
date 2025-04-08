@@ -32,6 +32,7 @@
 ![[Pasted image 20250407214331.png]]![[Pasted image 20250407214416.png]]
 ![[Pasted image 20250407214719.png]]
 ![[Pasted image 20250407214734.png]]
+![[Pasted image 20250407221133.png]]
 ## What to do with pins
 ### MODE
 According to table 8-3, this should be R LVL 1OF3 for PH/EN MODE. This Means that it should constantly be pulled to GND.
@@ -58,3 +59,9 @@ Analog Pin
 GPIO 
 
 ### ITRIP
+Connect to ground to turn off Internal Current regulation
+
+### SR 
+
+### GND
+fucking ground it pretty please
