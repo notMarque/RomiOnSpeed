@@ -1,4 +1,5 @@
-
+[Product Details](https://www.ti.com/product/DRV8245-Q1/part-details/DRV8245HQRXZRQ1)
+[DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/DRV8245HQRXZRQ1/15926671)
 # Basic Figures
 ## Variant Comparison
 ![[Pasted image 20250407211738.png]]
@@ -27,44 +28,50 @@
 
 # What to do with Pins
 ## Figures
+### Table 8-1
 ![[Pasted image 20250407214241.png]]
+### Table 8-3
 ![[Pasted image 20250407214352.png]]
-![[Pasted image 20250407214331.png]]![[Pasted image 20250407214416.png]]
+### Table 8-4
+![[Pasted image 20250407214331.png]]
+![[Pasted image 20250407214416.png]]
 ![[Pasted image 20250407214719.png]]
+### Table 8-11
 ![[Pasted image 20250407214734.png]]
+### Table 8-10
 ![[Pasted image 20250407221133.png]]
 ## What to do with pins For Real
-### MODE
+### **MODE**
 According to table 8-3, this should be R LVL 1OF3 for PH/EN MODE. This Means that it should constantly be pulled to GND.
-### IPROPI 
+### **IPROPI** 
 Should be pulled to ground to disable over current and over voltage protection.
-### nSleep
+### **nSleep**
 Should be connected to an IO pin  with interrupt
-
+GPIO 10
 ### nFault
 I guess 2k resistor to 3v3 and then into a GPIO
 
-### DIAG
+### **DIAG**
 Pull low to gnd according to table 8-11 to turn on auto retry
-### VM
+### **VM**
 .1 and 10 micro caps in parralel to gnd from VAA
 
-### DRVOFF
+### **DRVOFF**
 Connect to GPIO
-
+GPIO11
 ### IN1
 Analog Pin
 
 ### IN2
 GPIO 
 
-### ITRIP
+### **ITRIP**
 Connect to ground to turn off Internal Current regulation
 
-### SR 
+### **SR** 
 Put some 0603 reistor to GND and we can tune value later. This can be jumped for lvl 1 or left open for lvl 6
 ### GND
-fucking ground it pretty please
-
+fucking ground it pretty please (no :0 )
+	
 
 # How to actually control it 

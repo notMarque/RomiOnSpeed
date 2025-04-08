@@ -4,8 +4,13 @@
 [DigiKey12a](https://www.digikey.com/en/products/detail/texas-instruments/DRV8243HQDGQRQ1/18159292)
 [Simpler Controller](https://www.digikey.com/en/products/detail/stmicroelectronics/VNH7100BASTR/7691017)
 [Two in one](https://www.digikey.com/en/products/detail/texas-instruments/DRV8262DDVR/23331378?s=N4IgTCBcDaICICUBqAOMA2Mc5JAXQF8g)
+[DRV8263-Q1](https://www.ti.com/product/DRV8263-Q1)
+[Real](https://www.ti.com/product/DRV8245-Q1/part-details/DRV8245HQRXZRQ1)
 ## Connectors
 [XT30](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-10474/8258064)
 # Driver Settings
 Diag: LVL5 Off-state Diagnostics disabled
 Slew Rate: LVL5 Randomly Choosen
+# Notes
+gpio 6-9 for encoders
+GPIO 10 for n_sleep
