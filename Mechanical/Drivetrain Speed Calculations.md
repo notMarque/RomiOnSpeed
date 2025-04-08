@@ -72,3 +72,5 @@ $$
 $$
 \omega_{motor}= \frac{50t}{14t}\cdot 183.7rpm = 656rpm
 $$
+**Decision:** 16t pinion
+20.41:1
