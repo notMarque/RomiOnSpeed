@@ -40,8 +40,14 @@
 ![[Pasted image 20250407214734.png]]
 ### Table 8-10
 ![[Pasted image 20250407221133.png]]
+<<<<<<< Updated upstream:Electrical/DRV8245HQRXZRQ1 Notes.md
 ## What to do with pins For Real
 ### **MODE**
+=======
+![[Pasted image 20250407233751.png]]
+## What to do with pins
+### MODE
+>>>>>>> Stashed changes:Electrical/DRV8263-Q1 Notes.md
 According to table 8-3, this should be R LVL 1OF3 for PH/EN MODE. This Means that it should constantly be pulled to GND.
 ### **IPROPI** 
 Should be pulled to ground to disable over current and over voltage protection.
