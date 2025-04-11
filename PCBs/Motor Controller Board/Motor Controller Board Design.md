@@ -17,4 +17,4 @@ GPIO 10 for n_sleep
 # BOM
 - [ ] 100x 100nf 0603 Caps
 - [ ] 6-12x [10uf Electrolytic Cap](https://www.digikey.com/en/products/detail/nic-components-corp/NACE100M35V5X5-5TR13F/22320440?s=N4IgjCBcoBwwLFUBjKAzAhgGwM4FMAaEAeygG0QYwwAGMAdhAF0iAHAFyhAGV2AnAJYA7AOYgAvkQBMNeAE4kIVJEy5CJcuBoACAK0AxZm06QQAVSED2AeTQBZPBhwBXPngnjxQA)
-- [ ] [DRV8245HQRXZRQ1](https://www.digikey.com/en/products/detail/texas-instruments/DRV8245HQRXZRQ1/15926671?s=N4IgTCBcDaICICUBqAOMAWArACQIoIA0AtBXARhAF0BfIA)
+- [ ] 3x [DRV8245HQRXZRQ1](https://www.digikey.com/en/products/detail/texas-instruments/DRV8245HQRXZRQ1/15926671?s=N4IgTCBcDaICICUBqAOMAWArACQIoIA0AtBXARhAF0BfIA)
