@@ -16,4 +16,4 @@ gpio 6-9 for encoders
 GPIO 10 for n_sleep
 # BOM
 - [ ] 100nf 0603 Caps
-- [ ] 
+- [ ] [10uf Electrolytic Cap](https://www.digikey.com/en/products/detail/nic-components-corp/NACE100M35V5X5-5TR13F/22320440?s=N4IgjCBcoBwwLFUBjKAzAhgGwM4FMAaEAeygG0QYwwAGMAdhAF0iAHAFyhAGV2AnAJYA7AOYgAvkQBMNeAE4kIVJEy5CJcuBoACAK0AxZm06QQAVSED2AeTQBZPBhwBXPngnjxQA)
