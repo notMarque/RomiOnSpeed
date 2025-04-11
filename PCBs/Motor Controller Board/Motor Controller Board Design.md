@@ -19,3 +19,7 @@ GPIO 10 for n_sleep
 - [ ] 6-12x [10uf Electrolytic Cap](https://www.digikey.com/en/products/detail/nic-components-corp/NACE100M35V5X5-5TR13F/22320440?s=N4IgjCBcoBwwLFUBjKAzAhgGwM4FMAaEAeygG0QYwwAGMAdhAF0iAHAFyhAGV2AnAJYA7AOYgAvkQBMNeAE4kIVJEy5CJcuBoACAK0AxZm06QQAVSED2AeTQBZPBhwBXPngnjxQA)
 - [ ] 3x [DRV8245HQRXZRQ1](https://www.digikey.com/en/products/detail/texas-instruments/DRV8245HQRXZRQ1/15926671?s=N4IgTCBcDaICICUBqAOMAWArACQIoIA0AtBXARhAF0BfIA)
 - [ ] 3x [NCP1117 Lin Reg](https://www.digikey.com/en/products/detail/onsemi/NCP1117IST33T3G/14545464)
+- [ ] 3x [W25Q128JVSIQ](https://www.digikey.com/en/products/detail/winbond-electronics/W25Q128JVSIQ/5803943)
+- [ ] 10x [RP2040](https://www.digikey.com/en/products/detail/raspberry-pi/SC0914-13/14306010?s=N4IgTCBcDaIEoAUwAYAsyQF0C%2BQ)
+- [ ] 4x [ABM8-272-T3](https://www.digikey.com/en/products/detail/abracon-llc/ABM8-272-T3/22472366?s=N4IgTCBcDaIIICECyAOAtGA7GNAVAzCALoC%2BQA)
+- [ ] 
