@@ -15,3 +15,5 @@ Slew Rate: LVL5 Randomly Choosen
 gpio 6-9 for encoders
 GPIO 10 for n_sleep
 # BOM
+- [ ] 100nf 0603 Caps
+- [ ] 
