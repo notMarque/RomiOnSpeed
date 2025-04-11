@@ -23,3 +23,6 @@ GPIO 10 for n_sleep
 - [ ] 10x [RP2040](https://www.digikey.com/en/products/detail/raspberry-pi/SC0914-13/14306010?s=N4IgTCBcDaIEoAUwAYAsyQF0C%2BQ)
 - [ ] 4x [ABM8-272-T3](https://www.digikey.com/en/products/detail/abracon-llc/ABM8-272-T3/22472366?s=N4IgTCBcDaIIICECyAOAtGA7GNAVAzCALoC%2BQA)
 - [ ] 10x [Micro USB horizontal modified](https://www.digikey.com/en/products/detail/amphenol-cs-fci/10103594-0001LF/2350351?s=N4IgTCBcDaIIwAZEGYCsBOALCAugXyA)
+- [ ] 5x [XT30 these ones are 60A peak]()
+
+[Digikey Order](https://www.digikey.com/short/719qh9n4)
