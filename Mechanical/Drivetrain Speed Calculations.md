@@ -43,7 +43,7 @@ $$
 ## Gear Calculations
 Big Bevel Gear Teeth: Probably 1bout 40
 Small Bevel Gear: 11-12 teeth
-Spur Gear: 51 teeth
+Spur Gear: 51 teeth ==(47T)==
 Pinion Gear: ?
 ### Wheel Speed Calculations
 $$
