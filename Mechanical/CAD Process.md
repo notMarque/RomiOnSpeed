@@ -10,3 +10,5 @@ Small Bevel Gear: 11t 1.5mm module
 ## Big Bevels
 https://www.chiefdelphi.com/t/involute-gear-design-tutorial/387230
 [Bearings](https://www.amazon.com/uxcell-V623ZZ-Bearing-3x12x4mm-Bearings/dp/B0DBQWDBWD?crid=O6KVT9T5HREJ&dib=eyJ2IjoiMSJ9.TzPVmDNRzh2cW3ZmDohH95lUyE2S-Iaw-O3hxFt-EmP3BeF8Ud6FgbYXw07e6JRu2c-ck60jb46fADzSqbJjm_zJBHr7HEL7ZqUIpPBEjBPLN-j757Iwlz1wkj8PNm5ae3cfCsK4rlT2uU_FTBbJHTqFESWXGJGNEhqJ0KIUtj9rSnFvQ5fM4j3j3EcKtl_N2pBjzk6LAduJeZhpRZKUjKCxJcWqIx9GNgPBDPMETCo.LJfH8pfW_erfJLocs8uETOlojxuBy2SmEQj6jByiK8I&dib_tag=se&keywords=3mm%2Bgroove%2Bbearing&qid=1744483996&sprefix=3mm%2Bgroove%2Bbearing%2Caps%2C108&sr=8-10&th=1)
+## Mounting Plate
+[Bearings](https://www.amazon.com/uxcell-Groove-Bearing-1080095-Bearings/dp/B07FVYR9S5?crid=33VX9OT6SJ56C&dib=eyJ2IjoiMSJ9.SEfMMc8NrU2_EDMFmqPTGOwp8nHrrCw0gXxdSDxaBZJD2ac2svFD4nDiXMEOV9t88KIByMAOsnJpmO_OW5ALXc8BY9VfRXbnsbOw1987L4lw67vMhFCGZ9W6v2JBAtUAj-0LzaKPiZNr3aeQ4S_q7ok49YhnnMlR-dbRbvyHFeeH1EnTOYj8h9FgdgrURVI542V_EkLTMe4YA_BtQmS6FL0Id8o-NB7ucvLQklRgo-g.9NziaQDicnEThzQfX3uqkMHei-psMxxNB8yiKQG2n1I&dib_tag=se&keywords=bearing%2B4x13x4mm&qid=1744558249&sprefix=bearing%2B4x13x4mm%2Caps%2C126&sr=8-10&th=1)
