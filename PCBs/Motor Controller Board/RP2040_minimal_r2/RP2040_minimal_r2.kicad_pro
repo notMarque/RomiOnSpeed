@@ -719,7 +719,7 @@
       "plot": "gerbers",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../../../Downloads/RP2040_minimal_r2.step",
       "svg": "",
       "vrml": ""
     },
