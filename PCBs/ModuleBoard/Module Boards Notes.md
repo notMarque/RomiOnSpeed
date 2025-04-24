@@ -1,3 +1,4 @@
 - [ ] Grounds and 3v3 with spare pinout
 - [ ] LEDS!
-- [ ] 
+- [ ] Add AS5600 (and check location)
+- [ ] Connector to main board
