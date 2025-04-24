@@ -13,6 +13,7 @@ The other can be on any pair of pins according to this diagram (feel free to cha
 # AS5600
 pulling Dir high leads to counter clockwise being positive
 PGO can be used for mannually programming, but we will use i2c
+Locked in place but can be rotated however is needed. Just make sure that center is at (100, 97.25)
 # Big Boy Connector
 I've locked this in place because I got it completely centered, but it can be moved up and down a bit if needed or rotated
 Two open pins (unless I forgot something)
