@@ -22,4 +22,5 @@ Pins can definitelly be moved about as needed, they just need to stay up to date
 Would be kinda nice to have for testing, but I imagine we won't have space
 # Power Supply
 Lin Reg Dropout: 1.2V
-
+Diode forward voltage shit: 1.1V
+3.3+1.2+1.1=5.5v ⊙﹏⊙∥
