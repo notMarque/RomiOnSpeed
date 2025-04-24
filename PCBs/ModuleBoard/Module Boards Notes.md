@@ -9,5 +9,7 @@ Having one be on pins 4 and 5 is really convenient because these are the default
 The other can be on any pair of pins according to this diagram (feel free to change to make routing easier)
 ![[pico-pinout.png]]
 # AS5600
+pulling Dir high leads to counter clockwise being positive
+PGO can be used for mannually 
 # Big Boy Connector
 Two open pins (unless I forgot something)
