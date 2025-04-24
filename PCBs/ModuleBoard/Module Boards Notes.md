@@ -1,7 +1,7 @@
 - [ ] Grounds and 3v3 with spare pinout
 - [ ] LEDS!
 - [ ] Add AS5600 (and check location)
-- [ ] Connector to main board
+- [ ] [[#Big Boy Connector]]
 
 # I2C Connections
 One two as5600 and one to main board for simplicity/speed
@@ -9,3 +9,5 @@ Having one be on pins 4 and 5 is really convenient because these are the default
 The other can be on any pair of pins according to this diagram (feel free to change to make routing easier)
 ![[pico-pinout.png]]
 # AS5600
+# Big Boy Connector
+Two open pins (unless I forgot something)
