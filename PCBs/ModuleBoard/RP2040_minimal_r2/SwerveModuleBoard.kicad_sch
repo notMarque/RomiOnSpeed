@@ -11061,7 +11061,7 @@
 		)
 		(uuid "120d05dd-2960-4236-8b05-fc2ed6752ce5")
 	)
-	(label "SDA0"
+	(label "SDA1"
 		(at 213.36 252.73 0)
 		(effects
 			(font
@@ -11301,6 +11301,16 @@
 		)
 		(uuid "55bdeef0-439e-442f-8343-c7a1ae16f3b0")
 	)
+	(label "SDA1"
+		(at 247.65 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "565a20b5-53dd-42e9-8215-b3429b393653")
+	)
 	(label "GPIO0"
 		(at 245.11 111.76 180)
 		(effects
@@ -11491,6 +11501,16 @@
 		)
 		(uuid "9c17d049-8e97-4ecd-9170-954400077f6d")
 	)
+	(label "SCL1"
+		(at 247.65 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d2c9503-98c5-4ad6-b6bc-243c2a4750d6")
+	)
 	(label "QSPI_SCLK"
 		(at 152.4 128.27 0)
 		(effects
@@ -11651,7 +11671,7 @@
 		)
 		(uuid "d63bbef4-046b-4827-9f29-0bf28fa28525")
 	)
-	(label "SCL0"
+	(label "SCL1"
 		(at 213.36 250.19 0)
 		(effects
 			(font
