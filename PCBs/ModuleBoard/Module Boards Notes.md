@@ -1,0 +1,3 @@
+- [ ] Grounds and 3v3 with spare pinout
+- [ ] LEDS!
+- [ ] 
