@@ -20,3 +20,6 @@ Two open pins (unless I forgot something)
 Pins can definitelly be moved about as needed, they just need to stay up to date with main board
 # XT30
 Would be kinda nice to have for testing, but I imagine we won't have space
+# Power Supply
+Lin Reg Dropout: 1.2V
+
