@@ -7144,7 +7144,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f3bf7c0a-d508-499d-8cb6-7b06b5baf0fc")
-		(at 61.42 38.55)
+		(at 42.46 42.3)
 		(descr "Through hole straight pin header, 2x08, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x08 2.54mm double row")
 		(property "Reference" "J3"
