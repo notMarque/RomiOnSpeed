@@ -27,3 +27,5 @@ Diode forward voltage shit: 1.1V
 
 2mm In from edge first pins are
 20mm board edge to swerve center
+# Leds
+https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-11821/6163706
