@@ -26,7 +26,7 @@
 # How to Turn on
 ![[Pasted image 20250407213844.png]]
 
-# What to do with Pins
+		# What to do with Pins 
 ## Figures
 ### Table 8-1
 ![[Pasted image 20250407214241.png]]
