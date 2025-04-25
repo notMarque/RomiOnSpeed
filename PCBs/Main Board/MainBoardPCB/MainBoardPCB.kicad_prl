@@ -29,9 +29,20 @@
       "zones": true
     },
     "visible_items": [
-      12
+      "vias",
+      "footprint_text",
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "footprint_values",
+      "footprint_references",
+      "tracks",
+      "bitmaps",
+      "pads",
+      "shapes"
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -42,7 +53,7 @@
   },
   "meta": {
     "filename": "MainBoardPCB.kicad_prl",
-    "version": 3
+    "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
