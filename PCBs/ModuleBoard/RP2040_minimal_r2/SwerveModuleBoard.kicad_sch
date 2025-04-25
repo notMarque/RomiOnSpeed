@@ -9197,16 +9197,6 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 120.65) (xy 304.8 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2015c784-a6e0-4228-8e3c-0b0879faac32")
-	)
-	(wire
-		(pts
 			(xy 360.68 179.07) (xy 360.68 171.45)
 		)
 		(stroke
@@ -9224,6 +9214,16 @@
 			(type default)
 		)
 		(uuid "20a89194-30de-433b-9f3f-f6bf4763938c")
+	)
+	(wire
+		(pts
+			(xy 276.86 116.84) (xy 283.21 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21fd78be-fa3b-48d5-bb84-ce835bcf8fb8")
 	)
 	(wire
 		(pts
@@ -10394,16 +10394,6 @@
 			(type default)
 		)
 		(uuid "7f89b405-36d5-414f-b5d0-293b13755785")
-	)
-	(wire
-		(pts
-			(xy 295.91 120.65) (xy 304.8 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80707067-6db7-4c90-ae13-b91ccc92bcc7")
 	)
 	(wire
 		(pts
@@ -11677,6 +11667,16 @@
 	)
 	(wire
 		(pts
+			(xy 283.21 116.84) (xy 283.21 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed2f1e8e-92f1-4f3a-8337-33698b3ce325")
+	)
+	(wire
+		(pts
 			(xy 280.67 60.96) (xy 292.1 60.96)
 		)
 		(stroke
@@ -12515,16 +12515,6 @@
 		)
 		(uuid "9c17d049-8e97-4ecd-9170-954400077f6d")
 	)
-	(label "GPIO1"
-		(at 283.21 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9d01d3ed-2319-45d5-ac62-a8e9aaf2699b")
-	)
 	(label "SCL1"
 		(at 247.65 119.38 0)
 		(effects
@@ -12684,6 +12674,16 @@
 			(justify left bottom)
 		)
 		(uuid "c8f599e8-e6d2-4317-8187-7d4fd6215fe7")
+	)
+	(label "GPIO1"
+		(at 295.91 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cb914f66-8216-47f9-9319-bcbf7b0e68d9")
 	)
 	(label "QSPI_SD0"
 		(at 73.66 105.41 0)
@@ -19411,7 +19411,7 @@
 	(symbol
 		(lib_name "GND_11")
 		(lib_id "power:GND")
-		(at 304.8 121.92 0)
+		(at 276.86 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19420,7 +19420,7 @@
 		(fields_autoplaced yes)
 		(uuid "c0fa13fa-993b-43f9-a9b7-5dd68c3e09d6")
 		(property "Reference" "#PWR049"
-			(at 304.8 128.27 0)
+			(at 276.86 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19429,7 +19429,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 304.8 127 0)
+			(at 276.86 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19437,7 +19437,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 304.8 121.92 0)
+			(at 276.86 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19446,7 +19446,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 304.8 121.92 0)
+			(at 276.86 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19455,7 +19455,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 304.8 121.92 0)
+			(at 276.86 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
