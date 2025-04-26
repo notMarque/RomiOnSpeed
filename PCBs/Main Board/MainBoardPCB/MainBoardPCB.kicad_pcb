@@ -3484,7 +3484,7 @@
 			(uuid "4ee8b082-5eeb-4145-94d6-c938c7e50be0")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/marks/OneDrive/Documents/Projects/RomiOnSpeed/PCBs/ModuleBoard/Lubraries/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
+		(model "${KIPRJMOD}/3dModels/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
