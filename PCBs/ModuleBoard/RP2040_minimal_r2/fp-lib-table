@@ -3,4 +3,5 @@
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal_r2.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "C:/Users/marks/OneDrive/Documents/KiCad/Lubraries/DRV8245HQRXZRQ1/footprints.pretty")(options "")(descr ""))
   (lib (name "BuckBoost")(type "KiCad")(uri "${KIPRJMOD}/BuckBoost.pretty")(options "")(descr ""))
+  (lib (name "APXE160ARA101MH70G")(type "KiCad")(uri "C:/Users/marks/OneDrive/Documents/KiCad/Lubraries/APXE160ARA101MH70G")(options "")(descr ""))
 )

@@ -19596,7 +19596,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "100u"
 			(at 63.5 197.7389 0)
 			(effects
 				(font
@@ -19605,7 +19605,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.4"
+		(property "Footprint" "APXE160ARA101MH70G:CAPAE800X700"
 			(at 58.7248 191.77 0)
 			(effects
 				(font
@@ -20015,7 +20015,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "100u"
 			(at 312.42 162.1789 0)
 			(effects
 				(font
@@ -20024,7 +20024,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.4"
+		(property "Footprint" "APXE160ARA101MH70G:CAPAE800X700"
 			(at 307.6448 156.21 0)
 			(effects
 				(font
