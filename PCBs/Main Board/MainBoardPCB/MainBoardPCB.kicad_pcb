@@ -39,12 +39,14 @@
 		(stackup
 			(layer "F.SilkS"
 				(type "Top Silk Screen")
+				(color "White")
 			)
 			(layer "F.Paste"
 				(type "Top Solder Paste")
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
+				(color "Black")
 				(thickness 0.01)
 			)
 			(layer "F.Cu"
@@ -94,6 +96,7 @@
 			)
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
+				(color "White")
 			)
 			(copper_finish "None")
 			(dielectric_constraints no)
@@ -1638,6 +1641,28 @@
 			(uuid "9f2fd834-4e05-48fb-af17-5ec3abb6a403")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/LGA14-L_2P59X3P1X0P5_STM.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/LGA14-L_2P59X3P1X0P5_STM.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "MainBoard:SOIC_128JVSIQ_WIN"
 		(layer "F.Cu")
@@ -2379,6 +2404,28 @@
 			(uuid "e23a0443-6ec7-418c-8797-0acb0e73f045")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/SOIC_128JVSIQ_WIN.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/SOIC_128JVSIQ_WIN.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 		(layer "F.Cu")
@@ -3462,15 +3509,15 @@
 			(uuid "4ee8b082-5eeb-4145-94d6-c938c7e50be0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30U-M_1x02_P5.0mm_Vertical.wrl"
+		(model "${KIPRJMOD}/3dModels/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.65 0.65 0.65)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4430,6 +4477,28 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/PTS636SM43LFS.stp"
+			(offset
+				(xyz 3.25 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/PTS636SM43LFS.stp"
+			(offset
+				(xyz 3 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 		(layer "F.Cu")
@@ -5047,15 +5116,15 @@
 			(uuid "81a326a6-1304-4c03-bd57-47f4b7b7630c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x08_P2.54mm_Vertical.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x08_P2.54mm_Vertical.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 -1.6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -0)
 			)
 		)
 	)
@@ -9169,6 +9238,28 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/ESP32-S3-WROOM-1-N8.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/ESP32-S3-WROOM-1-N8.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -10522,6 +10613,28 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/PTS636SM43LFS.stp"
+			(offset
+				(xyz 3.25 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/PTS636SM43LFS.stp"
+			(offset
+				(xyz 3 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Library:IND_SPM6530_TDK"
 		(layer "F.Cu")
@@ -10838,6 +10951,28 @@
 			(uuid "c4ec88c9-a387-45dd-afa2-f120920efee5")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/spm6530.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/spm6530.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
 		(layer "F.Cu")
@@ -13559,6 +13694,28 @@
 			(uuid "e67bba89-e5cf-44b4-9a6b-102d24aea7aa")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/SOT-23-5_M5_MCH.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/SOT-23-5_M5_MCH.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 		(layer "F.Cu")
@@ -16646,6 +16803,28 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/10103594-0001LF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/10103594-0001LF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
 		(layer "F.Cu")
@@ -17345,6 +17524,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/PTS636SM43LFS.stp"
+			(offset
+				(xyz 3.25 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/PTS636SM43LFS.stp"
+			(offset
+				(xyz 3 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -18508,6 +18709,28 @@
 			(uuid "bd41e1c0-6133-42bd-adcc-03cfead89214")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/SOT-23-5_M5_MCH.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/SOT-23-5_M5_MCH.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 		(layer "F.Cu")
@@ -20800,6 +21023,28 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/10103594-0001LF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/10103594-0001LF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 		(layer "F.Cu")
@@ -21283,6 +21528,28 @@
 			(uuid "d3c21033-1dfd-4c91-abc5-4771ec73a932")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/User One/Documents/KiCad/9.0/3dmodels/RQF0009A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3dModels/RQF0009A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 		(locked yes)
@@ -21700,15 +21967,15 @@
 			(uuid "e5808ee9-e8f1-4fe8-a4a1-c73161b4011a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x08_P2.54mm_Vertical.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x08_P2.54mm_Vertical.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 -1.6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -0)
 			)
 		)
 	)
@@ -26766,6 +27033,7 @@
 			(type solid)
 		)
 		(fill yes)
+		(locked yes)
 		(layer "B.SilkS")
 		(uuid "6ad936e2-9cef-4eda-a48a-512ec0433e65")
 	)
