@@ -29,20 +29,22 @@
       "zones": false
     },
     "visible_items": [
+      "vias",
       "footprint_text",
-      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
       "footprint_references",
+      "tracks",
       "drc_errors",
       "bitmaps",
       "pads",
+      "zones",
       "drc_warnings",
       "drc_exclusions",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_7ffddfdc",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_7ffdffdd",
     "zone_display_mode": 0
   },
   "git": {
