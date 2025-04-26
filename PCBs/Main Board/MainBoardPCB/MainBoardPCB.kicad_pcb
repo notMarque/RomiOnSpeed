@@ -3484,15 +3484,15 @@
 			(uuid "4ee8b082-5eeb-4145-94d6-c938c7e50be0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30U-M_1x02_P5.0mm_Vertical.wrl"
+		(model "C:/Users/marks/OneDrive/Documents/Projects/RomiOnSpeed/PCBs/ModuleBoard/Lubraries/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.65 0.65 0.65)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
