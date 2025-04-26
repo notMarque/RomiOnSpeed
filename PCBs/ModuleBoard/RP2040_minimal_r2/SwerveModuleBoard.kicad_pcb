@@ -51,7 +51,7 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
-				(color "Red")
+				(color "#C20000BF")
 				(thickness 0.01)
 			)
 			(layer "F.Cu"
@@ -71,7 +71,7 @@
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
-				(color "Red")
+				(color "#C20000BF")
 				(thickness 0.01)
 			)
 			(layer "B.Paste"
@@ -12244,12 +12244,12 @@
 			(uuid "cdd4f8c0-9eae-4e8e-872b-49a8cb72e42b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-F_1x02_P7.2mm_Vertical.step"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 0.7 0.7 0.7)
+				(xyz 0.65 0.65 0.65)
 			)
 			(rotate
 				(xyz -0 -0 -0)
