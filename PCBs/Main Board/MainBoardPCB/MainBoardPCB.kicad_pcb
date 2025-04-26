@@ -9213,6 +9213,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "${KIPRJMOD}/3dModels/ESP32-S3-WROOM-1-N8.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 		(layer "F.Cu")
