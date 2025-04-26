@@ -24,3 +24,8 @@ Would be kinda nice to have for testing, but I imagine we won't have space
 Lin Reg Dropout: 1.2V
 Diode forward voltage shit: 1.1V
 3.3+1.2+1.1=5.5v ⊙﹏⊙∥
+
+2mm In from edge first pins are
+20mm board edge to swerve center
+# Leds
+[Newer Coller LEDS](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-16347/11630204)
