@@ -663,6 +663,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/marks/OneDrive/Documents/Projects/RomiOnSpeed/PCBs/ModuleBoard/3dmodels/10103594_0001LF/10103594-0001LF.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -7044,6 +7055,17 @@
 			)
 		)
 		(model "C:/Users/User One/Documents/GitHub/RomiOnSpeed/PCBs/ModuleBoard/3dmodels/PTS636SM43LFS.stp"
+			(offset
+				(xyz 3 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/marks/OneDrive/Documents/Projects/RomiOnSpeed/PCBs/ModuleBoard/3dmodels/PTS636SM43LFS.stp"
 			(offset
 				(xyz 3 0 0)
 			)
