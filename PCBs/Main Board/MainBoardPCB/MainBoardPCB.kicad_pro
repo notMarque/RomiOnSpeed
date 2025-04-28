@@ -503,7 +503,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "MainBoardPCB.step",
+      "step": "../../../../../../../Downloads/MainBoardPCB.step",
       "svg": "",
       "vrml": ""
     },
