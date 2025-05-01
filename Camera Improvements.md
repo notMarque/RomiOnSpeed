@@ -1,0 +1,1 @@
+High-res not finding things: tuned to find white blob
