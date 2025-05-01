@@ -1,1 +1,2 @@
-High-res not finding things: tuned to find white blob
+Try finding black blobs because all walls are white
+Tryiong to call numerical values
