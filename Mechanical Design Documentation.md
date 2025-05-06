@@ -25,3 +25,7 @@ These three moving components are held in place by a central hub that itself can
 In order to constrain the bevel gears we employed v-groove bearings and a matching feature on the bevel gear.
 ![[Pasted image 20250506021433.png]]
 This assembly is held in place with a set of 7 to 10 regular ball bearings stacked above and below a lip on the hub. The design has spaces for 10 bearings, but we found that using fewer bearings on the bottom side resulted in much lower resistance to spinning. This method was employed instead of v-groove bearings because it was significantly more resistant to axial loads. 
+![[Pasted image 20250506124521.png]]
+Power is transferred to the large bevel gears through two motor shafts with pinions at different heights.
+![[Pasted image 20250506124746.png]]
+A frame consisting of a top-plate, mid-plate, and bottom-plate was created to hold everything together. The top plate mounts motors and the encoder mount. The mid-plate constrains the bearings for the main hub, and the bottom-plate supports the end of the motor shafts with thin-wall bearings and grub screws 
