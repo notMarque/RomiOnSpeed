@@ -1,5 +1,5 @@
 # Design Goals
-At the outset of this project we knew that we wanted to create a robot with differential swerve drive that was packaged as close to the same size as a Romi as possible. Due to these two broad constraints our design process started with creating a well-packaged swerve drive module and then nesting the other supporting components.
+At the outset of this project we knew that we wanted to create a robot with differential swerve drive that was packaged as close to the same size as a Romi as possible. Due to these two broad constraints our design process started with creating a well-packaged swerve drive module and then nesting the other supporting components. Additionally, as a challenge to ourselves, we decided to design all of our own parts instead of relying on existing solutions (excepting off the shelf electronics components and hardware).
 # Swerve Module
 ## Research 
 When researching existing solutions for small form factor differential swerve drives we were able to find three main designs.
@@ -21,7 +21,7 @@ One interesting challenge that we had to account for was the fact that packaging
 ### Swerve Module
 Our design revolves around a central hub that contains the wheel connected to two large bevel gears. 
 ![[Pasted image 20250506021302.png]]
-These three moving components are held in place by a central hub that itself can spin. By rotating the large bevel gears in the same or opposite directions, the assembly can turn or spin the wheel respectively. This hub additionally has a top frame which holds the magnet for the magnetic encoder.
+These three moving components are held in place by a central hub that itself can spin. By rotating the large bevel gears in the same or opposite directions, the assembly can turn or spin the wheel respectively. This hub additionally has a top frame which holds the magnet for the magnetic encoder. 
 ![[Pasted image 20250506021351.png]]
 In order to constrain the bevel gears we employed v-groove bearings and a matching feature on the bevel gear.
 ![[Pasted image 20250506021433.png]]
@@ -40,5 +40,7 @@ The third version designed was the best.
 We opted to implement a simple arm lifter for manipulating baskets. The angled comb design was chosen to accommodate baskets with handles of different height without letting them slide up and down the arm.
 ![[Pasted image 20250506154807.png]]
 ### Casters
-Due to our decision to make a two-module swerve drive we needed casters to maintain balance. Use of ball casters was considered, but omni-wheels were chosen in their place due to their design allowing them to be tucked closer to the frame than equivalent ball casters (and because who doesn't want to design a omni-wheel).  
+Due to our decision to make a two-module swerve drive we needed casters to maintain balance. Use of ball casters was considered, but omni-wheels were chosen in their place due to their design allowing them to be tucked closer to the frame than equivalent ball casters (and because who doesn't want to design a omni-wheel). Each wheel consists of a 3d-printed frame, two ball bearings, and six casters held in place by bent piano wire. 
+The geometry of the wheel was designed to be as thin as possible while maintaining a completely round outer profile.
+![[Pasted image 20250506155516.png]]
 
