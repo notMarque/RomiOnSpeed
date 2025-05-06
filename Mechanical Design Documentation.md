@@ -44,4 +44,7 @@ Due to our decision to make a two-module swerve drive we needed casters to maint
 The geometry of the wheel was designed to be as thin as possible while maintaining a completely round outer profile.
 ![[Pasted image 20250506155516.png]]
 ![[Pasted image 20250506160151.png]]
-Four points of contact were needed because the center of gravity could not have been reasonably kept over the base of support with just additionally point of contact past the swerve modules. In order to avoid over constraining
+Four points of contact were needed because the center of gravity could not have been reasonably kept over the base of support with just additionally point of contact past the swerve modules. In order to avoid over constraining the drivetrain one of wheels needed to be able to move. This was accomplished with a compliant flexure on the rear wheel. Two versions were created for different compliances.
+![[Pasted image 20250506160838.png]]![[Pasted image 20250506160932.png]]
+Finite element analysis was completed on the flexure, but yielded wildly inaccurate results due to the geometry of the part and the variations in material properties of 3d-printing filaments. Actual dis
+![[Pasted image 20250506161116.png]]
