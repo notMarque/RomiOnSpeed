@@ -28,4 +28,4 @@ This assembly is held in place with a set of 7 to 10 regular ball bearings stack
 ![[Pasted image 20250506124521.png]]
 Power is transferred to the large bevel gears through two motor shafts with pinions at different heights.
 ![[Pasted image 20250506124746.png]]
-A frame consisting of a top-plate, mid-plate, and bottom-plate was created to hold everything together. The top plate mounts motors and the encoder mount. The mid-plate constrains the bearings for the main hub, and the bottom-plate supports the end of the motor shafts with thin-wall bearings and grub screws 
+A frame consisting of a top-plate, mid-plate, and bottom-plate was created to hold everything together. The top plate mounts motors and the encoder mount. The mid-plate constrains the bearings for the main hub, and the bottom-plate supports the end of the motor shafts with thin-wall bearings and grub screws (used instead of bolts to avoid using up valuable ground clearance).
