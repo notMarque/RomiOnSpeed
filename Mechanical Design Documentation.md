@@ -23,7 +23,8 @@ In order to be sure that our packaging concept would be physically possible, a s
 ![[Pasted image 20250506161520.png]]
 ![[Pasted image 20250506161541.png]]
 Bearing clearance confirmation
-
+![[Pasted image 20250506161708.png]]
+Preliminary ground clearance checks.
 ### Swerve Module
 Our design revolves around a central hub that contains the wheel connected to two large bevel gears. 
 ![[Pasted image 20250506021302.png]]
@@ -55,3 +56,6 @@ Four points of contact were needed because the center of gravity could not have 
 Finite element analysis was completed on the flexure, but yielded wildly inaccurate results due to the geometry of the part and the variations in material properties of 3d-printing filaments. 
 ![[Pasted image 20250506161116.png]]
 Actual displacement under similar loads was roughly an order of magnitude larger.
+### Camera Mounting
+
+![[Pasted image 20250506162141.png]]
