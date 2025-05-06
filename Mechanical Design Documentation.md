@@ -60,4 +60,11 @@ Actual displacement under similar loads was roughly an order of magnitude larger
 The camera FOV was modelled allowing us to find a camera position that packaged well with our design while also being able to see distant April tags and tags close to the robot. 
 ![[Pasted image 20250506162141.png]]
 ### Overall Packaging
+We believe that we were able to achieve good overall packaging and maintain a compact size. Repairability is generally acceptable without needing to disassemble overly large sections to make repairs except for one area. Unfortunately, that one area is the swerve module boards, but we would never need to replace those so it's totally not going to be an issue. 
 ![[RomiOnSpeed Side Profile]]
+Side Section View
+![[Pasted image 20250506163248.png]]
+Top Section View
+### Other Design Notes
+Board models were exported from KiCAD with 3d models for components included. This made implementing them into the design simple; however, having every SMD component 3d modeled is quite resource intensive. To co 
+Fusion 360's configurable designs feature was used to make b
