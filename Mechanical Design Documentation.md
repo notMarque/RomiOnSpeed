@@ -18,6 +18,7 @@ As a design consideration we hoped to achieve a linear speed of 1 to 2 times the
 One interesting challenge that we had to account for was the fact that packaging constraints allowed for only a certain range of tooth counts. Our first round of calculations is as follows.
 ![[Drivetrain Speed Calculations]]
 ## Design Choices
+### Swerve Module
 Our design revolves around a central hub that contains the wheel connected to two large bevel gears. 
 ![[Pasted image 20250506021302.png]]
 These three moving components are held in place by a central hub that itself can spin. By rotating the large bevel gears in the same or opposite directions, the assembly can turn or spin the wheel respectively. This hub additionally has a top frame which holds the magnet for the magnetic encoder.
@@ -31,4 +32,10 @@ Power is transferred to the large bevel gears through two motor shafts with pini
 A frame consisting of a top-plate, mid-plate, and bottom-plate was created to hold everything together. The top plate mounts motors and the encoder mount. The mid-plate constrains the bearings for the main hub, and the bottom-plate supports the end of the motor shafts with thin-wall bearings and grub screws (used instead of bolts to avoid using up valuable ground clearance). One improvement that could be made in future iterations would be to make separate motor mounts that screw in from the top, as it is currently necessary to disassemble the modules in order to replace them.
 Three versions of electronics mounts were designed. Firstly, a development encoder mount was designed to mount an AS5600 breakout board for testing without a complete control board.
 ![[Pasted image 20250506153958.png]]
-The second version was to implement 
+The second version was to implement the custom control boards. 
+![[Pasted image 20250506154139.png]]
+The third version designed was the best.
+![[Pasted image 20250506154311.png]]
+### Lifter
+
+
