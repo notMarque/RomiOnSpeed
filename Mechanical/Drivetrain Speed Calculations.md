@@ -17,7 +17,7 @@ $$
 $$
 V_{actual}=\frac{240rev}{min}\cdot \frac{2 \pi\cdot 0.07m}{rev} \cdot \frac{1min}{60sec}=1.76\tfrac{m}{s}
 $$
-# New Romi
+# Differential Drive
 ## Output
 ### Wheel Speed
 $$
@@ -42,8 +42,8 @@ $$
 $$
 ## Gear Calculations
 Big Bevel Gear Teeth: Geometrically constrained ~40
-Small Bevel Gear: Geometrically constrained 11-14 teeth
-Spur Gear: 51 teeth ==(47T)==
+Small Bevel Gear: Geometrically constrained: 11-14 teeth
+Spur Gear: Geometrically constrained: ==47== to 51 teeth
 Pinion Gear: ?
 ### Wheel Speed Calculations
 $$
@@ -72,5 +72,3 @@ $$
 $$
 \omega_{motor}= \frac{50t}{14t}\cdot 183.7rpm = 656rpm
 $$
-**Decision:** 16t pinion
-20.41:1
