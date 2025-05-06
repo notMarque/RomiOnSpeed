@@ -60,3 +60,4 @@ Actual displacement under similar loads was roughly an order of magnitude larger
 The camera FOV was modelled allowing us to find a camera position that packaged well with our design while also being able to see distant April tags and tags close to the robot. 
 ![[Pasted image 20250506162141.png]]
 ### Overall Packaging
+![[RomiOnSpeed Side Profile]]
