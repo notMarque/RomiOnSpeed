@@ -17,3 +17,5 @@ Additionally, one feature that we identified as missing from these existing desi
 As a design consideration we hoped to achieve a linear speed of 1 to 2 times the speed of a Romi. We also determined that the generally accepted range for twist speed is between 100 and 200 rpm.
 One interesting challenge that we had to account for was the fact that packaging constraints allowed for only a certain range of tooth counts. Our first round of calculations is as follows.
 ![[Drivetrain Speed Calculations]]
+## Design Choices
+Our design revolves around a central hub that contains the wheel con
