@@ -7,5 +7,7 @@ When researching existing solutions for small form factor differential swerve dr
 [Jacob Williams](https://www.printables.com/model/950641-xrp-differential-swerve-drive-robot)
 ![[Pasted image 20250506014532.png]]
 [Wild Willy Robotics](https://www.thingiverse.com/thing:5579384)
-
-[Wild ]
+![[Pasted image 20250506014714.png]]
+[Wild Willy Robotics XRP](https://www.printables.com/model/951372-omnidirectional-xrp-robot)
+From Jacob Williams design we drew inspiration for o-ring wheels. From the Wild Willy Robotics model we were inspired by the overall bevel gear arrangement and use of v-groove bearings.
+Additionally, one feature that we identi
