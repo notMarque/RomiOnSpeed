@@ -37,5 +37,8 @@ The second version was to implement the custom control boards.
 The third version designed was the best.
 ![[Pasted image 20250506154311.png]]
 ### Lifter
-
+We opted to implement a simple arm lifter for manipulating baskets. The angled comb design was chosen to accommodate baskets with handles of different height without letting them slide up and down the arm.
+![[Pasted image 20250506154807.png]]
+### Casters
+Due to our decision to make a two-module swerve drive we needed casters to maintain balance. Use of ball casters was considered, but omni-wheels were chosen in their place due to their design allowing them to be tucked closer to the frame than equivalent ball casters (and because who doesn't want to design a omni-wheel).  
 
