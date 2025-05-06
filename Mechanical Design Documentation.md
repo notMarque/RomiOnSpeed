@@ -9,7 +9,7 @@ When researching existing solutions for small form factor differential swerve dr
 [Wild Willy Robotics](https://www.thingiverse.com/thing:5579384)
 ![[Pasted image 20250506014714.png]]
 [Wild Willy Robotics XRP](https://www.printables.com/model/951372-omnidirectional-xrp-robot)
-From Jacob Williams design we drew inspiration for o-ring wheels. From the Wild Willy Robotics model we were inspired by the overall bevel gear arrangement and use of v-groove bearings.
+From Jacob Williams' design we drew inspiration for o-ring wheels. From the Wild Willy Robotics model we were inspired by the overall bevel gear arrangement and use of v-groove bearings. From the third design we learned that no matter what simple robotics platform a class uses, someone will make a diffy swerve alternative.
 Additionally, one feature that we identified as missing from these existing designs was an encoder to know the angle of the wheels without having to complete a homing sequence using limit switches.
 ## Gearing Arrangement
 
@@ -24,4 +24,4 @@ These three moving components are held in place by a central hub that itself can
 ![[Pasted image 20250506021351.png]]
 In order to constrain the bevel gears we employed v-groove bearings and a matching feature on the bevel gear.
 ![[Pasted image 20250506021433.png]]
-This assembly is held in place with a set of 7 to 10 regular ball bearings stacked above and below a lip on the hub. This method was employed instead of v-groove bearings because it was significantly more resistant to axial loads. 
+This assembly is held in place with a set of 7 to 10 regular ball bearings stacked above and below a lip on the hub. The design has spaces for 10 bearings, but we found that using fewer bearings on the bottom side resulted in much lower resistance to spinning. This method was employed instead of v-groove bearings because it was significantly more resistant to axial loads. 
