@@ -43,4 +43,5 @@ We opted to implement a simple arm lifter for manipulating baskets. The angled c
 Due to our decision to make a two-module swerve drive we needed casters to maintain balance. Use of ball casters was considered, but omni-wheels were chosen in their place due to their design allowing them to be tucked closer to the frame than equivalent ball casters (and because who doesn't want to design a omni-wheel). Each wheel consists of a 3d-printed frame, two ball bearings, and six casters held in place by bent piano wire. 
 The geometry of the wheel was designed to be as thin as possible while maintaining a completely round outer profile.
 ![[Pasted image 20250506155516.png]]
-
+![[Pasted image 20250506160151.png]]
+Four points of contact were needed because the center of gravity could not have been reasonably kept over the base of support with just additionally point of contact past the swerve modules. In order to avoid over constraining
