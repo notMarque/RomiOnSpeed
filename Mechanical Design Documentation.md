@@ -43,6 +43,8 @@ The second version was to implement the custom control boards.
 ![[Pasted image 20250506154139.png]]
 The third version designed was the best.
 ![[Pasted image 20250506154311.png]]
+## CAD
+The full CAD model of the dev module is available at  https://grabcad.com/library/3dp-differential-swerve-drive-1
 ### Lifter
 We opted to implement a simple arm lifter for manipulating baskets. The angled comb design was chosen to accommodate baskets with handles of different height without letting them slide up and down the arm.
 ![[Pasted image 20250506154807.png]]
@@ -66,5 +68,4 @@ Side Section View
 ![[Pasted image 20250506163248.png]]
 Top Section View
 ### Other Design Notes
-Board models were exported from KiCAD with 3d models for components included. This made implementing them into the design simple; however, having every SMD component 3d modeled is quite resource intensive. To co 
-Fusion 360's configurable designs feature was used to make b
+Board models were exported from KiCAD with 3d models for components included. This made implementing them into the design simple; however, having every SMD component 3d modeled is quite resource intensive. To counteract this we made use of Fusion 360's configurable designs feature again to be able to quickly switch between the de-featured board models and the originals.
