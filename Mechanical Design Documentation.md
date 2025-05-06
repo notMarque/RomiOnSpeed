@@ -18,5 +18,10 @@ As a design consideration we hoped to achieve a linear speed of 1 to 2 times the
 One interesting challenge that we had to account for was the fact that packaging constraints allowed for only a certain range of tooth counts. Our first round of calculations is as follows.
 ![[Drivetrain Speed Calculations]]
 ## Design Choices
-Our design revolves around a central hub that contains the wheel connected to two large bevel gears. These three moving components are held in place by a central hub that itself can spin. By rotating the large bevel gears in the same or opposite directions, the assembly can turn or spin the wheel respectively. In order to constrain the bevel gears we employed v-groove bearings and a matching feature on the bevel gear.
+Our design revolves around a central hub that contains the wheel connected to two large bevel gears. 
+![[Pasted image 20250506021302.png]]
+These three moving components are held in place by a central hub that itself can spin. By rotating the large bevel gears in the same or opposite directions, the assembly can turn or spin the wheel respectively. This hub additionally has a top frame which holds the magnet for the magnetic encoder.
+![[Pasted image 20250506021351.png]]
+In order to constrain the bevel gears we employed v-groove bearings and a matching feature on the bevel gear.
+![[Pasted image 20250506021433.png]]
 This assembly is held in place with a set of 7 to 10 regular ball bearings stacked above and below a lip on the hub. This method was employed instead of v-groove bearings because it was significantly more resistant to axial loads. 
