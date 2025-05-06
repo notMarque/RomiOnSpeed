@@ -18,6 +18,12 @@ As a design consideration we hoped to achieve a linear speed of 1 to 2 times the
 One interesting challenge that we had to account for was the fact that packaging constraints allowed for only a certain range of tooth counts. Our first round of calculations is as follows.
 ![[Drivetrain Speed Calculations]]
 ## Design Choices
+### Crayon CAD Confirmation
+In order to be sure that our packaging concept would be physically possible, a simplified block-CAD model was created. From this we gained a good understanding of the tolerances we would be working with. 
+![[Pasted image 20250506161520.png]]
+![[Pasted image 20250506161541.png]]
+Bearing clearance confirmation
+
 ### Swerve Module
 Our design revolves around a central hub that contains the wheel connected to two large bevel gears. 
 ![[Pasted image 20250506021302.png]]
@@ -46,5 +52,6 @@ The geometry of the wheel was designed to be as thin as possible while maintaini
 ![[Pasted image 20250506160151.png]]
 Four points of contact were needed because the center of gravity could not have been reasonably kept over the base of support with just additionally point of contact past the swerve modules. In order to avoid over constraining the drivetrain one of wheels needed to be able to move. This was accomplished with a compliant flexure on the rear wheel. Two versions were created for different compliances.
 ![[Pasted image 20250506160838.png]]![[Pasted image 20250506160932.png]]
-Finite element analysis was completed on the flexure, but yielded wildly inaccurate results due to the geometry of the part and the variations in material properties of 3d-printing filaments. Actual dis
+Finite element analysis was completed on the flexure, but yielded wildly inaccurate results due to the geometry of the part and the variations in material properties of 3d-printing filaments. 
 ![[Pasted image 20250506161116.png]]
+Actual displacement under similar loads was roughly an order of magnitude larger.
