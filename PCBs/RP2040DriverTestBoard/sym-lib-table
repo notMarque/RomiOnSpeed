@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pico_Connect_Library")(type "KiCad")(uri "${KIPRJMOD}/Pico_Connect_Library.kicad_sym")(options "")(descr ""))
+)
